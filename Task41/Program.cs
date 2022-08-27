@@ -15,7 +15,7 @@ int count = 0;
          }
          else count=count;
     }
-        Console.Write (count);
+        Console.Write ("Количество числе больше нуля составляет: " + count);
 
 
 
